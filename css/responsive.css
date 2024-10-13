@@ -1,12 +1,12 @@
 /* =====================================
-Template Name: 	Mediplus.
+Template Name: 	doctorplus.
 Author Name: Naimur Rahman
 Website: http://wpthemesgrid.com/
-Description: Mediplus - Doctor HTML Template.
+Description: doctorplus - Doctor HTML Template.
 Version:	1.1
 ========================================*/   
 /* Tablet Screen */
-@media only screen and (min-width: 768px) and (max-width: 991px) {
+@doctora only screen and (min-width: 768px) and (max-width: 991px) {
 /* Header Sticky */
 .section{
 	padding:70px 0px;
@@ -376,7 +376,7 @@ Version:	1.1
 
 }
 /* Mobile Screen */
-@media only screen and (max-width: 767px) {
+@doctora only screen and (max-width: 767px) {
 .header.sticky{
 	
 }
@@ -1028,7 +1028,7 @@ Version:	1.1
 
 }
 /* Mobile Screen */
-@media only screen and (max-width: 450px) {
+@doctora only screen and (max-width: 450px) {
 
 
 .section{

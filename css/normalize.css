@@ -1,8 +1,8 @@
 /* =====================================
-Template Name: 	Mediplus.
+Template Name: 	doctorplus.
 Author Name: Naimur Rahman
 Website: http://wpthemesgrid.com/
-Description: Mediplus - Doctor HTML Template.
+Description: doctorplus - Doctor HTML Template.
 Version:	1.1
 ========================================*/ 
 
@@ -810,7 +810,7 @@ a:hover, a:active {
 	display: block;
 }
 
-@media screen and (min-width: 37.5em) {
+@doctora screen and (min-width: 37.5em) {
 	.menu-toggle {
 		display: none;
 	}
@@ -1004,7 +1004,7 @@ a:hover, a:active {
 }
 
 /*--------------------------------------------------------------
-# Media
+# doctora
 --------------------------------------------------------------*/
 .page-content .wp-smiley,
 .entry-content .wp-smiley,

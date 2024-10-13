@@ -1,8 +1,8 @@
 /* =====================================
-Template Name: 	Mediplus.
+Template Name: 	doctorplus.
 Author Name: Naimur Rahman
 Website: http://wpthemesgrid.com/
-Description: Mediplus - Doctor HTML Template.
+Description: doctorplus - Doctor HTML Template.
 Version:	1.1
 ========================================*/   
 /*=======================================
@@ -314,7 +314,7 @@ Version:	1.1
 				lng: 90.884780,
 				title: 'Marker with InfoWindow',
 				infoWindow: {
-				content: '<p>welcome to Medipro</p>'
+				content: '<p>welcome to doctorpro</p>'
 			}
 		
 		});

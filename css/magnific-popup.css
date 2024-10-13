@@ -189,7 +189,7 @@ button::-moz-focus-inner {
     top: 0;
     margin-top: 35px;
     margin-left: 35px;
-    border: medium inset transparent; }
+    border: doctorum inset transparent; }
   .mfp-arrow:after {
     border-top-width: 13px;
     border-bottom-width: 13px;
@@ -297,7 +297,7 @@ img.mfp-img {
 .mfp-gallery .mfp-image-holder .mfp-figure {
   cursor: pointer; }
 
-@media screen and (max-width: 800px) and (orientation: landscape), screen and (max-height: 300px) {
+@doctora screen and (max-width: 800px) and (orientation: landscape), screen and (max-height: 300px) {
   /**
        * Remove all paddings around the image on small screen
        */
@@ -336,7 +336,7 @@ img.mfp-img {
     text-align: center;
     padding: 0; } }
 
-@media all and (max-width: 900px) {
+@doctora all and (max-width: 900px) {
   .mfp-arrow {
     -webkit-transform: scale(0.75);
     transform: scale(0.75); }
